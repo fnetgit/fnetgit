@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fnetgit&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=FFFFFF&bg_color=0d1117" alt="Francisco Neto github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnetgit&layout=compact&hide_border=true&title_color=4169E1&bg_color=0d1117&text_color=FFFFFF" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnetgit&layout=compact&hide_border=true&title_color=4169E1&bg_color=0d1117&text_color=FFFFFF&count_private=true" alt="Francisco Neto github top langs" />
 </div>
 
 <div align="center">
