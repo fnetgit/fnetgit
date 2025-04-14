@@ -1,43 +1,96 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
-
-
-# Olá, eu sou Francisco Neto!👋
-
-## 🤓Sobre mim
-📚Atualmente cursando Tecnologia em Sistemas de Computação na UESPI
-
-<br>
-
-## 💻Aprendendo
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black)
-
-<br>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnetgit&layout=compact)](https://github.com/fnetgit/github-readme-stats) -->
-## 🌐Social
-
-<div>
-<a href="mailto:netofrancisco.pro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.instagram.com/fneto.eu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/francisco-alves-ribeiro-neto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<div align="center">
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1"  />
 </div>
 
-<br>
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+<h1 align="left">Olá, eu sou Francisco Neto!👋</h1>
 
+###
 
-<!-- escrita na tela [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Francisco+Neto;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
+<h2 align="left">🤓About me</h2>
 
-<!-- gráfico de commits [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fnetgit&bg_color=4169e100&color=FFFFFF&line=FFFFFF&point=A9A9A9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+###
 
-<!--estatísticas <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fnetgit&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=FFFFFF&bg_color=0d1117" alt="Francisco Neto github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnetgit&layout=compact&hide_border=true&title_color=4169E1&bg_color=0d1117&text_color=FFFFFF&count_private=true" alt="Francisco Neto github top langs" />
-</div> -->
+<p align="left">📚Atualmente cursando Tecnologia em Sistemas de Computação na UESPI</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fnetgit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=false&order=2" height="190" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">💻Learning</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo" />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🌐Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/francisco-alves-ribeiro-neto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:netofrancisco.pro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.instagram.com/fneto.eu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1"  />
+</div>
+
+###
