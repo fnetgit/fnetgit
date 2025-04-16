@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fnetgit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nord&hide_border=false&order=2" height="190" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fnetgit&layout=compact&card_width=320&langs_count=13&theme=nord&hide_border=false&order=2&cache_seconds=1800" height="190" alt="Gráfico de linguagens" />
 </div>
 
 ###
