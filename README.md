@@ -27,43 +27,48 @@
 ###
 
 <div align="left">
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo" />
   </a>
   <img width="12" />
-
-  <a href="https://www.typescriptlang.org" target="_blank">
+  
+  <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo" />
   </a>
   <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo" />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="37" alt="javascript logo" />
   </a>
   <img width="12" />
-
-  <a href="https://devdocs.io/c/" target="_blank">
+  
+  <a href="https://en.cppreference.com/w/c">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo" />
   </a>
   <img width="12" />
-
-  <a href="https://www.figma.com" target="_blank">
+  
+  <a href="https://www.figma.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo" />
   </a>
   <img width="12" />
-
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo" />
+  
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="37" alt="git logo" />
   </a>
   <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo" />
   </a>
   <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.latex-project.org/">
+    <img src="https://cdn.simpleicons.org/latex/008080" height="37" alt="latex logo" />
   </a>
 </div>
 
