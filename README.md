@@ -1,84 +1,51 @@
 <div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1"  />
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1" alt="Banner de ondulado"/>
 </div>
 
-###
+<h1>Olá, eu sou Francisco Neto! 👋</h1>
 
-<h1 align="left">Olá, eu sou Francisco Neto!👋</h1>
+<h2>🤓 About me</h2>
 
-###
+<p>
+🎓 Estudante de Tecnologia em Sistemas de Computação (UESPI)<br>
+📊 Atualmente estudando Data Science e Inteligência Artificial<br>
+🧠 Curioso por natureza, sempre explorando novas tecnologias<br>
+🚀 Buscando evoluir como desenvolvedor e profissional
+</p>
 
-<h2 align="left">🤓About me</h2>
-
-###
-
-<p align="left">📚Atualmente cursando Tecnologia em Sistemas de Computação na UESPI</p>
-
-###
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fnetgit&layout=compact&card_width=320&langs_count=13&theme=nord&hide_border=false&order=2&cache_seconds=1800" height="190" alt="Gráfico de linguagens" />
+  <img src="https://github-readme-stats-wheat-ten-84.vercel.app/api/top-langs/?username=fnetgit&layout=compact&hide_border=false&langs_count=14&cache_seconds=1800&theme=nord" height="235" alt="Gráfico de linguagens" />
 </div>
 
-###
+---
 
-<h2 align="left">💻Learning</h2>
+<h2>💻 Technologies & Learning</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.python.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="37" alt="javascript logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://en.cppreference.com/w/c">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.figma.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="37" alt="git logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.latex-project.org/">
-    <img src="https://cdn.simpleicons.org/latex/008080" height="37" alt="latex logo" />
-  </a>
+<div>
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo"/></a>
+  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy logo"/></a>
+  <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas logo"/></a>
+  <a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" alt="Matplotlib logo"/></a>
+  <a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter logo"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript logo"/></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C logo"/></a>
+  <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React logo"/></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL logo"/></a>
+  <a href="https://www.sqlite.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite logo"/></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo"/></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="35" alt="Git logo"/></a>
+  <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma logo"/></a>
+  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux logo"/></a>
 </div>
 
-###
+---
 
-<h2 align="left">🌐Social</h2>
+<h2>🌐 Social</h2>
 
-###
-
-<div align="left">
+<div>
   <a href="https://www.linkedin.com/in/francisco-alves-ribeiro-neto" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo" />
   </a>
@@ -92,10 +59,8 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1"  />
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=4169E1" alt="Banner de ondulado"/>
 </div>
-
-###
