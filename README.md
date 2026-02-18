@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-wheat-ten-84.vercel.app/api/top-langs/?username=fnetgit&layout=compact&hide_border=false&langs_count=14&cache_seconds=1800&theme=nord" height="235" alt="Gráfico de linguagens" />
+  <img src="https://github-readme-stats-wheat-ten-84.vercel.app/api/top-langs/?username=fnetgit&layout=compact&hide_border=false&count_private=true&langs_count=14&cache_seconds=1800&theme=nord" height="235" alt="Gráfico de linguagens" />
 </div>
 
 ---
